@@ -290,3 +290,4 @@ __pycache__/
 # Misc Files
 script.txt
 **/Deployment.targets
+*.deployproj
